@@ -13,6 +13,8 @@ trending repositories and developers. Relies on
 which is in JavaScript, so gtrending aims to fill the gap
 for python.
 
+**This project relies on the author's self-built website https://gtrend.yapie.me, please use caution for production environments.**
+
 ### Simple Demo
 
 ```python
